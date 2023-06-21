@@ -28,6 +28,7 @@
 
 #include <string>
 #include <stdexcept>
+#include <cstdint>
 
 /*--------------------------------------------------------------------*//*!
  * \brief dEQP Common Test Framework
