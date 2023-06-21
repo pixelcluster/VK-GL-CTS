@@ -353,9 +353,9 @@ PACKAGES = [
 		"9a2e576a052a1e65a5d41b593e693ff02745604b",
 		"vulkan-docs"),
 	GitRepo(
-		"https://github.com/google/amber.git",
-		"git@github.com:google/amber.git",
-		"8b145a6c89dcdb4ec28173339dd176fb7b6f43ed",
+		"https://github.com/pixelcluster/amber.git",
+		"git@github.com:pixelcluster/amber.git",
+		"3a140958c7544b8508488ffcda363a749f86a880",
 		"amber"),
 	GitRepo(
 		"https://github.com/open-source-parsers/jsoncpp.git",
